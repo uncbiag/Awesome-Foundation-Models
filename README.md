@@ -23,3 +23,4 @@ A curated list of foundation models for vision and language tasks. Papers withou
 ### 2021
 
 * Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, ICCV 2021, [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf) [[Code]](https://github.com/microsoft/Swin-Transformer)
+* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, ICLR 2021, [[PDF]](https://arxiv.org/pdf/2010.11929.pdf) [[Code]](https://github.com/google-research/vision_transformer)
