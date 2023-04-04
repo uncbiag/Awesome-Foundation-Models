@@ -19,6 +19,7 @@ A curated list of foundation models for vision and language tasks. Papers withou
 ### 2022
 
 * Video Swin Transformer, CVPR 2022, [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Video_Swin_Transformer_CVPR_2022_paper.pdf) [[Code]](https://github.com/SwinTransformer/Video-Swin-Transformer)
+* FLAVA: A Foundational Language And Vision Alignment Model, CVPR 2022, [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.pdf) [[Code]](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)
 
 ### 2021
 
