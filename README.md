@@ -3,7 +3,9 @@
 
 Curated list of awesome foundation models for vision and language tasks. Papers without code are not included.
 
-## Table of Contents
+## Papers
+### Survey
+* [2023] On the Opportunities and Risks of Foundation Models [[PDF]](https://arxiv.org/pdf/2108.07258.pdf)
 
 ### 2023
 
