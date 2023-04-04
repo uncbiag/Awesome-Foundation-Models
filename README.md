@@ -1,7 +1,7 @@
 # Awesome-Foundation-Models
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated list of awesome foundation models for vision and language tasks. Papers without code are not included.
+A curated list of foundation models for vision and language tasks. Papers without code are not included.
 
 ## Papers
 ### Survey
