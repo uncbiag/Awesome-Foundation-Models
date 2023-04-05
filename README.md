@@ -1,10 +1,7 @@
 # Awesome-Foundation-Models
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of foundation models for vision and language tasks. Papers without code are not included.
-
-## What is a foundation model? 
-In recent years, a new successful paradigm for building AI systems has emerged: Train one model on a huge amount of data and adapt it to many applications. We call such a model a foundation model. Learn more from [https://crfm.stanford.edu/](https://crfm.stanford.edu/).
+A foundation model is a large-scale pretrained model (e.g., GPT-3) that can be adapted to many applications. This term was [first popularized](https://crfm.stanford.edu) by the Stanford Institute for Human-Centered Artificial Intelligence. This repository maintains a curated list of foundation models for vision and language tasks. Papers without code are not included.
 
 ## Papers
 
