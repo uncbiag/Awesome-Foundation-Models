@@ -32,7 +32,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [Video Swin Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Video_Swin_Transformer_CVPR_2022_paper.pdf) (CVPR, from Microsoft Research Asia)
 * [FLAVA: A Foundational Language And Vision Alignment Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.pdf) (CVPR, from Facebook AI Research)
 * [Towards artificial general intelligence via a multimodal foundation model](https://www.nature.com/articles/s41467-022-30761-2) (Nature Communication, from Renmin University of China)
-* [FILIP: FINE-GRAINED INTERACTIVE LANGUAGEIMAGE PRE-TRAINING](https://openreview.net/pdf?id=cpDhcsEDC2) (ICLR, from Huawei and HKUST)
+* [FILIP: Fine-Grained Interactive Language-Image Pre-Training](https://openreview.net/pdf?id=cpDhcsEDC2) (ICLR, from Huawei and HKUST)
 
 ### 2021
 
