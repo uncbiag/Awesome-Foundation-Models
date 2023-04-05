@@ -24,6 +24,8 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [GLIP: Grounded Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf) (CVPR, from UCLA and Microsoft)
 * [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n/li22n.pdf) (from Salesforce Research)
 * [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) (from Google)
+* [Parti: Scaling Autoregressive Models for Content-Rich Text-to-Image Generation](https://openreview.net/pdf?id=AFDcYJKhND) (from Google)
+* [Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf) (from Google)
 * [Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) (CVPR, from Stability and Runway)
 * [Masked Autoencoders As Spatiotemporal Learners](https://arxiv.org/pdf/2205.09113.pdf) (extension of MAE to videos; NeurIPS, from Meta)
 * [Masked Autoencoders Are Scalable Vision Learners](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) (known as MAE; CVPR, from FAIR)
@@ -34,6 +36,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [Towards artificial general intelligence via a multimodal foundation model](https://www.nature.com/articles/s41467-022-30761-2) (Nature Communication, from Renmin University of China)
 * [FILIP: Fine-Grained Interactive Language-Image Pre-Training](https://openreview.net/pdf?id=cpDhcsEDC2) (ICLR, from Huawei and HKUST)
 * [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://openreview.net/forum?id=GUrhfTuf_3) (ICLR, from CMU and Google)
+* [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/pdf/2112.10741.pdf) (from OpenAI)
 
 ### 2021
 
