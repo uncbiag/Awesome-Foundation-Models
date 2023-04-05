@@ -14,6 +14,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2023
 
 * [Segment Anything](https://github.com/facebookresearch/segment-anything) (the first foundation model for image segmentation; from Meta)
+* [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/pdf/2303.17564.pdf) (50 billion parameters; from Bloomberg)
 * [FLIP: Scaling Language-Image Pre-training via Masking](https://arxiv.org/abs/2212.00794) (from Meta)
 * [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf) (from Saleforce Research)
 * [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf) (from OpenAI)
