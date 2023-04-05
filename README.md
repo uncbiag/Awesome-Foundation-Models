@@ -19,7 +19,8 @@ A foundation model is a large-scale pretrained model (e.g., GPT-3) that can be a
 
 ### 2022
 
-* [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) (known as Stable Diffusion, from Stability and Runway)
+* [Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) (CVPR, from Stability and Runway)
+* [Masked Autoencoders Are Scalable Vision Learners](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) (CVPR, from FAIR)
 * [DALL-E2: Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf) (from OpenAI)
 * [Robust and Efficient Medical Imaging with Self-Supervision](https://arxiv.org/pdf/2205.09723.pdf) (from Google, Georgia Tech, and Northwestern University)
 * [Video Swin Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Video_Swin_Transformer_CVPR_2022_paper.pdf) (CVPR, from Microsoft Research Asia)
