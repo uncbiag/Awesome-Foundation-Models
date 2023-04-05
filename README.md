@@ -19,6 +19,7 @@ A foundation model is a large-scale pretrained model (e.g., GPT-3) that can be a
 
 ### 2022
 
+* [DALL-E2: Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf) (from OpenAI)
 * [Robust and Efficient Medical Imaging with Self-Supervision](https://arxiv.org/pdf/2205.09723.pdf) (from Google, Georgia Tech, and Northwestern University)
 * [Video Swin Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Video_Swin_Transformer_CVPR_2022_paper.pdf) (CVPR, from Microsoft Research Asia)
 * [FLAVA: A Foundational Language And Vision Alignment Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.pdf) (CVPR, from Facebook AI Research)
@@ -26,6 +27,7 @@ A foundation model is a large-scale pretrained model (e.g., GPT-3) that can be a
 
 ### 2021
 
+* [DALL-E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf) (from OpenAI)
 * [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) (from OpenAI)
 * [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf) (ICCV, from Microsoft Research Asia)
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf) (ICLR, from Google)
