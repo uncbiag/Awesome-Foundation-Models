@@ -50,12 +50,12 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ### 2020
 
-* [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (from OpenAI)
+* [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (175 billion params; permits in-context learning compared with GPT-2; from OpenAI)
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856) (from Google)
 
 ### 2019
 
-* [GPT-2: Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) (from OpenAI)
+* [GPT-2: Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) (1.5 billiion parameters; from OpenAI)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) (from Google AI Language)
 
 ### 2018
