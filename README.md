@@ -3,6 +3,9 @@
 
 A curated list of foundation models for vision and language tasks. Papers without code are not included.
 
+## What is a foundation model? 
+In recent years, a new successful paradigm for building AI systems has emerged: Train one model on a huge amount of data and adapt it to many applications. We call such a model a foundation model. Learn more from [https://crfm.stanford.edu/](https://crfm.stanford.edu/).
+
 ## Papers
 
 ### Survey
