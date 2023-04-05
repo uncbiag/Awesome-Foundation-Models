@@ -32,6 +32,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ### 2021
 
+* [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/pdf/2103.06561.pdf) (This paper presents the first large-scale Chinese multimodal pre-training model called BriVL; from Renmin University of China)
 * [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf) (from Microsoft)
 * [DALL-E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf) (from OpenAI)
 * [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) (from OpenAI)
@@ -42,7 +43,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2020
 
 * [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (from OpenAI)
-* [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856) (known as T5, from Google)
+* [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856) (from Google)
 
 ### 2019
 
