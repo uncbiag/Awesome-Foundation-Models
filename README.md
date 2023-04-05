@@ -22,6 +22,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ### 2022
 
+* [SLIP: Self-supervision meets Language-Image Pre-training](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860514.pdf) (ECCV, from UC Berkeley and Meta)
 * [GLIP: Grounded Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf) (CVPR, from UCLA and Microsoft)
 * [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n/li22n.pdf) (from Salesforce Research)
 * [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) (from Google)
