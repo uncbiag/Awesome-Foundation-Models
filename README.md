@@ -14,6 +14,9 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2023
 
 * [Segment Anything](https://github.com/facebookresearch/segment-anything) (the first foundation model for image segmentation; from Meta)
+* [EVA-CLIP: Improved Training Techniques for CLIP at Scale](https://arxiv.org/pdf/2303.15389.pdf) (from BAAI and HUST)
+* [EVA-02: A Visual Representation for Neon Genesis](https://arxiv.org/pdf/2303.11331.pdf) (from BAAI and HUST)
+* [EVA-01: Exploring the Limits of Masked Visual Representation Learning at Scale](https://arxiv.org/pdf/2211.07636.pdf) (CVPR, from BAAI and HUST)
 * [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971v1.pdf) (A collection of foundation language models ranging from 7B to 65B parameters; from Meta)
 * [The effectiveness of MAE pre-pretraining for billion-scale pretraining](https://arxiv.org/pdf/2303.13496.pdf) (from Meta)
 * [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/pdf/2303.17564.pdf) (50 billion parameters; from Bloomberg)
