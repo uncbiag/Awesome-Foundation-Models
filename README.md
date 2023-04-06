@@ -75,6 +75,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2020
 
 * [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (175B parameters; permits in-context learning compared with GPT-2; from OpenAI)
+* [UNITER: UNiversal Image-TExt Representation Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750103.pdf) (from Microsoft)
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856) (from Google)
 
 ### 2019
