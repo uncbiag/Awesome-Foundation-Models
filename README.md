@@ -27,6 +27,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ### 2022
 <!-- * [Unified Vision and Language Prompt Learning](https://arxiv.org/pdf/2210.07225.pdf) (No code yet; from Nanyang Technological University and Apple) -->
+* [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/pdf/2212.08751.pdf) (efficient 3D object generation using a text-to-image diffusion model; from OpenAI)
 * [Image Segmentation Using Text and Image Prompts](https://arxiv.org/pdf/2112.10003.pdf) (CVPR, from University of Göttingen)
 * [Unifying Flow, Stereo and Depth Estimation](https://arxiv.org/pdf/2211.05783.pdf) (A unified model for three motion and 3D perception tasks; from ETH Zurich)
 * [SLIP: Self-supervision meets Language-Image Pre-training](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860514.pdf) (ECCV, from UC Berkeley and Meta)
