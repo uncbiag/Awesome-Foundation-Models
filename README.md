@@ -26,8 +26,8 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://arxiv.org/pdf/2211.05778.pdf) (CVPR, from Shanghai AI Laboratory)
 
 ### 2022
-
-* [Unified Vision and Language Prompt Learning](https://arxiv.org/pdf/2210.07225.pdf) (from Nanyang Technological University and Apple)
+<!-- * [Unified Vision and Language Prompt Learning](https://arxiv.org/pdf/2210.07225.pdf) (No code yet; from Nanyang Technological University and Apple) -->
+* [Image Segmentation Using Text and Image Prompts](https://arxiv.org/pdf/2112.10003.pdf) (CVPR, from University of Göttingen)
 * [Unifying Flow, Stereo and Depth Estimation](https://arxiv.org/pdf/2211.05783.pdf) (A unified model for three motion and 3D perception tasks; from ETH Zurich)
 * [SLIP: Self-supervision meets Language-Image Pre-training](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860514.pdf) (ECCV, from UC Berkeley and Meta)
 * [GLIP: Grounded Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf) (CVPR, from UCLA and Microsoft)
