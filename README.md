@@ -29,6 +29,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [UNINEXT: Universal Instance Perception as Object Discovery and Retrieval](https://arxiv.org/pdf/2303.06674.pdf) (a unified model for 10 instance perception tasks; CVPR, from ByteDance)
 * [InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://arxiv.org/pdf/2212.03191.pdf) (from Shanghai AI Lab)
 * [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://arxiv.org/pdf/2211.05778.pdf) (CVPR, from Shanghai AI Lab)
+* [BridgeTower: Building Bridges Between Encoders in Vision-Language Representation Learning](https://arxiv.org/pdf/2206.08657.pdf) (from Harbin Institute of Technology and Microsoft Research Asia)
 
 ### 2022
 <!-- * [Unified Vision and Language Prompt Learning](https://arxiv.org/pdf/2210.07225.pdf) (No code yet; from Nanyang Technological University and Apple) -->
@@ -87,6 +88,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2019
 
 * [GPT-2: Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) (1.5B parameters; from OpenAI)
+* [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/pdf/1908.07490.pdf) (EMNLP, from UNC-Chapel Hill)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) (from Google AI Language)
 
 ### 2018
