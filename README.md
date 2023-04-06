@@ -103,3 +103,6 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 * [Green AI](https://dl.acm.org/doi/pdf/10.1145/3381831) (introduces the concept of Red AI vs Green AI)
 * [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf) (the lottery ticket hypothesis, from MIT)
+
+### Challenges and Opportunities
+Trust, reliability, safe use, interpretability, self-improvement, adaptation, augmentation, specilization, understanding/predicting capability.
