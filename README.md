@@ -28,6 +28,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ### 2022
 <!-- * [Unified Vision and Language Prompt Learning](https://arxiv.org/pdf/2210.07225.pdf) (No code yet; from Nanyang Technological University and Apple) -->
+* [Foundation Transformers](https://arxiv.org/pdf/2210.06423.pdf) (from Microsoft)
 * [A Generalist Agent](https://openreview.net/pdf?id=1ikK0kHjvj) (known as Gato, a multi-modal, multi-task, multi-embodiment generalist agent; from DeepMind)
 * [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/pdf/2212.08751.pdf) (efficient 3D object generation using a text-to-image diffusion model; from OpenAI)
 * [Image Segmentation Using Text and Image Prompts](https://arxiv.org/pdf/2112.10003.pdf) (CVPR, from University of Göttingen)
