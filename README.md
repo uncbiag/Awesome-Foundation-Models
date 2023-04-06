@@ -14,6 +14,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2023
 
 * [Segment Anything](https://github.com/facebookresearch/segment-anything) (the first foundation model for image segmentation; from Meta)
+* [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971v1.pdf) (A collection of foundation language models ranging from 7B to 65B parameters; from Meta)
 * [The effectiveness of MAE pre-pretraining for billion-scale pretraining](https://arxiv.org/pdf/2303.13496.pdf) (from Meta)
 * [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/pdf/2303.17564.pdf) (50 billion parameters; from Bloomberg)
 * [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/pdf/2211.05100v3.pdf) (This work was coordinated by BigScience whose goal is to democratize LLMs.)
@@ -57,12 +58,12 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ### 2020
 
-* [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (175 billion params; permits in-context learning compared with GPT-2; from OpenAI)
+* [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (175B parameters; permits in-context learning compared with GPT-2; from OpenAI)
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856) (from Google)
 
 ### 2019
 
-* [GPT-2: Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) (1.5 billiion parameters; from OpenAI)
+* [GPT-2: Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) (1.5B parameters; from OpenAI)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) (from Google AI Language)
 
 ### 2018
