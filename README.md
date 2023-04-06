@@ -23,7 +23,8 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf) (from OpenAI)
 * [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) (from Microsoft Research Asia)
 * [UNINEXT: Universal Instance Perception as Object Discovery and Retrieval](https://arxiv.org/pdf/2303.06674.pdf) (a unified model for 10 instance perception tasks; CVPR, from ByteDance)
-* [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://arxiv.org/pdf/2211.05778.pdf) (CVPR, from Shanghai AI Laboratory)
+* [InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://arxiv.org/pdf/2212.03191.pdf) (from Shanghai AI Lab)
+* [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://arxiv.org/pdf/2211.05778.pdf) (CVPR, from Shanghai AI Lab)
 
 ### 2022
 <!-- * [Unified Vision and Language Prompt Learning](https://arxiv.org/pdf/2210.07225.pdf) (No code yet; from Nanyang Technological University and Apple) -->
