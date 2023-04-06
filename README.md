@@ -14,6 +14,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2023
 
 * [Segment Anything](https://github.com/facebookresearch/segment-anything) (the first foundation model for image segmentation; from Meta)
+* [Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks](https://arxiv.org/pdf/2301.05065.pdf) (from ByteDance)
 * [EVA-CLIP: Improved Training Techniques for CLIP at Scale](https://arxiv.org/pdf/2303.15389.pdf) (from BAAI and HUST)
 * [EVA-02: A Visual Representation for Neon Genesis](https://arxiv.org/pdf/2303.11331.pdf) (from BAAI and HUST)
 * [EVA-01: Exploring the Limits of Masked Visual Representation Learning at Scale](https://arxiv.org/pdf/2211.07636.pdf) (CVPR, from BAAI and HUST)
@@ -59,6 +60,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ### 2021
 
+* [Unifying Vision-and-Language Tasks via Text Generation](http://proceedings.mlr.press/v139/cho21a/cho21a.pdf) (from UNC-Chapel Hill)
 * [ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](http://proceedings.mlr.press/v139/jia21b/jia21b.pdf) (PMLR, from Google)
 * [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/pdf/2103.06561.pdf) (This paper presents the first large-scale Chinese multimodal pre-training model called BriVL; from Renmin University of China)
 * [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf) (from Microsoft)
@@ -86,3 +88,9 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2017
 
 * [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) (NeurIPS, from Google and UoT)
+
+## Other Related Papers
+
+### Training Efficiency
+* [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf) (the lottery ticket hypothesis, from MIT)
+* 
