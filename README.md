@@ -15,6 +15,8 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2023
 
 * [Segment Anything](https://github.com/facebookresearch/segment-anything) (the first foundation model for image segmentation; from Meta)
+* [SegGPT: Segmenting Everything In Context](https://arxiv.org/pdf/2304.03284.pdf) (from BAAI, ZJU, and PKU)
+* [Images Speak in Images: A Generalist Painter for In-Context Visual Learning](https://arxiv.org/pdf/2212.02499.pdf) (from BAAI, ZJU, and PKU)
 * [UniDector: Detecting Everything in the Open World: Towards Universal Object Detection](https://arxiv.org/pdf/2303.11749.pdf) (CVPR, from Tsinghua and BNRist)
 * [Visual Prompt Multi-Modal Tracking](https://arxiv.org/pdf/2303.10826.pdf) (from Dalian University of Technology and Peng Cheng Laboratory)
 * [Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks](https://arxiv.org/pdf/2301.05065.pdf) (from ByteDance)
