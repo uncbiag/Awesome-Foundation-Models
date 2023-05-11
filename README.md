@@ -16,6 +16,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ### 2023
 
+* [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf) (from Google)
 * [IMAGEBIND: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665.pdf) (from Meta)
 * [SEEM: Segment Everything Everywhere All at Once](https://arxiv.org/pdf/2304.06718.pdf) (from University of Wisconsin-Madison, HKUST, and Microsoft)
 * [SAM: Segment Anything](https://github.com/facebookresearch/segment-anything) (the first foundation model for image segmentation; from Meta) [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star)](https://github.com/facebookresearch/segment-anything)
