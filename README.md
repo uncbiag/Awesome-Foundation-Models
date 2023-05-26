@@ -93,7 +93,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf) (ICCV, from Microsoft Research Asia)
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf) (The first Vision Transfomer with pure self-attention blocks; ICLR, from Google)
 
-### Before 2020
+### <= 2020
 
 * [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (175B parameters; permits in-context learning compared with GPT-2; from OpenAI)
 * [UNITER: UNiversal Image-TExt Representation Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750103.pdf) (from Microsoft)
