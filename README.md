@@ -4,9 +4,7 @@
 A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3) that can be adapted to a wide range of downstream applications. This term was [first popularized](https://crfm.stanford.edu) by the Stanford Institute for Human-Centered Artificial Intelligence. This repository maintains a curated list of foundation models for vision and language tasks. Research papers without code are not included.
 
 
-## Papers
-
-### Survey
+## Survey
 
 * [2023.04] [Foundation Models for Generalist Medical Artificial Intelligence](https://www.nature.com/articles/s41586-023-05881-4)
 * [2023.03] [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
@@ -14,6 +12,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [2022.12] [ Vision-language pre-training: Basics, recent advances, and future trends.](https://www.nowpublishers.com/article/Details/CGV-105)
 * [2022.07] [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (This survey first popularizes the concept of foundation model; from Standford)
 
+## By Date
 ### 2023
 * [LIMA: Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf) (65B parameters, from Meta)
 * [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf) (from Google)
@@ -94,29 +93,22 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf) (ICCV, from Microsoft Research Asia)
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf) (The first Vision Transfomer with pure self-attention blocks; ICLR, from Google)
 
-### 2020
+### Before 2020
 
 * [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (175B parameters; permits in-context learning compared with GPT-2; from OpenAI)
 * [UNITER: UNiversal Image-TExt Representation Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750103.pdf) (from Microsoft)
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856) (from Google)
-
-### 2019
-
 * [GPT-2: Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) (1.5B parameters; from OpenAI)
 * [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/pdf/1908.07490.pdf) (EMNLP, from UNC-Chapel Hill)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) (from Google AI Language)
-
-### 2018
-
 * [GPT: Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) (from OpenAI)
-
-
-### 2017
-
 * [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) (NeurIPS, from Google and UoT)
 
-
-## Related Topics
+## By Topics
+### Image/Video Perception Tasks: Segmentation, Detection
+* [SEEM: Segment Everything Everywhere All at Once](https://arxiv.org/pdf/2304.06718.pdf) (from University of Wisconsin-Madison, HKUST, and Microsoft)
+* [SAM: Segment Anything](https://github.com/facebookresearch/segment-anything) (the first foundation model for image segmentation; from Meta) [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star)](https://github.com/facebookresearch/segment-anything)
+* [SegGPT: Segmenting Everything In Context](https://arxiv.org/pdf/2304.03284.pdf) (from BAAI, ZJU, and PKU) [![Star](https://img.shields.io/github/stars/baaivision/Painter.svg?style=social&label=Star)](https://github.com/baaivision/Painter)
 
 ### Training Efficiency
 
