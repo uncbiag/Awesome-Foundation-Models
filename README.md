@@ -119,7 +119,10 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [SAM: Segment Anything](https://github.com/facebookresearch/segment-anything) (the first foundation model for image segmentation; from Meta) [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star)](https://github.com/facebookresearch/segment-anything)
 * [SegGPT: Segmenting Everything In Context](https://arxiv.org/pdf/2304.03284.pdf) (from BAAI, ZJU, and PKU) [![Star](https://img.shields.io/github/stars/baaivision/Painter.svg?style=social&label=Star)](https://github.com/baaivision/Painter)
 
-### Generative Modeling
+### Large Language Models
+* [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf) (from OpenAI)
+* [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (175B parameters; permits in-context learning compared with GPT-2; from OpenAI)
+* [GPT-2: Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) (1.5B parameters; from OpenAI)
 * [GPT: Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) (from OpenAI)
 
 ### Training Efficiency
