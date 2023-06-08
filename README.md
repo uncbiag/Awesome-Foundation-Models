@@ -108,10 +108,10 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## By Topics
 ### Vision-Language Pretraining
 * [FLIP: Scaling Language-Image Pre-training via Masking](https://arxiv.org/abs/2212.00794) (from Meta)
-* [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf) (from Saleforce Research)
+* [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf) (proposes a generic and efficient VLP strategy based on off-the-shelf frozen vision and language models. from Saleforce Research)
+* [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n/li22n.pdf) (from Salesforce Research)
 * [SLIP: Self-supervision meets Language-Image Pre-training](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860514.pdf) (ECCV, from UC Berkeley and Meta)
 * [GLIP: Grounded Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf) (CVPR, from UCLA and Microsoft)
-* [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n/li22n.pdf) (from Salesforce Research)
 * [ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](http://proceedings.mlr.press/v139/jia21b/jia21b.pdf) (PMLR, from Google)
 * [RegionCLIP: Region-Based Language-Image Pretraining](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_RegionCLIP_Region-Based_Language-Image_Pretraining_CVPR_2022_paper.pdf)
 * [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) (from OpenAI)
