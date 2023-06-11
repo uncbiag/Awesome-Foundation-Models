@@ -15,6 +15,8 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## By Date
 ### 2023
+* [Towards Visual Foundation Models of Physical Scenes](https://arxiv.org/pdf/2306.03727.pdf) (describes a first step towards learning general-purpose visual representations of physical scenes
+using only image prediction as a training criterion; from AWS)
 * [LIMA: Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf) (65B parameters, from Meta)
 * [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf) (from Google)
 * [IMAGEBIND: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665.pdf) (from Meta)
