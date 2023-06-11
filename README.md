@@ -15,6 +15,8 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## By Date
 ### 2023
+
+* [Recognize Anything: A Strong Image Tagging Model](https://arxiv.org/pdf/2306.03514.pdf) (a strong foundation model for image tagging. from OPPO)
 * [Towards Visual Foundation Models of Physical Scenes](https://arxiv.org/pdf/2306.03727.pdf) (describes a first step towards learning general-purpose visual representations of physical scenes
 using only image prediction as a training criterion; from AWS)
 * [LIMA: Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf) (65B parameters, from Meta)
