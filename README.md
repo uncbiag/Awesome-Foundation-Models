@@ -137,3 +137,6 @@ using only image prediction as a training criterion; from AWS)
 * [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf) (the lottery ticket hypothesis, from MIT)
 
 * Other Challenges and Opportunities: Trust, reliability, safe use, interpretability, self-improvement, adaptation, augmentation, specilization, understanding/predicting capability.
+
+### Towards AGI
+* [Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models](https://arxiv.org/pdf/2306.08641.pdf) (from Huawei)
