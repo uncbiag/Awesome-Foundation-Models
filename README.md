@@ -6,12 +6,13 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Survey
 
+* [2023.06] [Large Multimodal Models: Notes on CVPR 2023 Tutorial](https://arxiv.org/pdf/2306.14895.pdf) (from Chunyuan Li, Microsoft.)
 * [2023.06] [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf)
 * [2023.04] [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/pdf/2304.00685.pdf)
 * [2023.04] [Foundation Models for Generalist Medical Artificial Intelligence](https://www.nature.com/articles/s41586-023-05881-4)
 * [2023.03] [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
 * [2023.03] [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/pdf/2303.04226.pdf)
-* [2022.12] [ Vision-language pre-training: Basics, recent advances, and future trends.](https://www.nowpublishers.com/article/Details/CGV-105)
+* [2022.12] [ Vision-language pre-training: Basics, recent advances, and future trends](https://www.nowpublishers.com/article/Details/CGV-105)
 * [2022.07] [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (This survey first popularizes the concept of foundation model; from Standford)
 
 ## By Date
