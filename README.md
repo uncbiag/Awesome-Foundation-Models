@@ -18,6 +18,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## By Date
 ### 2023
 
+* [Meta-Transformer: A Unified Framework for Multimodal Learning](https://arxiv.org/pdf/2307.10802.pdf) (from CUHK and Shanghai AI Lab)
 * [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf) (from Microsoft and Tsinghua University)
 * [Neural World Models for Computer Vision](https://arxiv.org/pdf/2306.09179.pdf) (PhD Thesis of Anthony Hu from University of Cambridge)
 * [Recognize Anything: A Strong Image Tagging Model](https://arxiv.org/pdf/2306.03514.pdf) (a strong foundation model for image tagging. from OPPO)
