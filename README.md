@@ -6,6 +6,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Survey
 
+* [2023.07] [A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models](https://arxiv.org/pdf/2307.12980.pdf) (from University of Oxford)
 * [2023.06] [Large Multimodal Models: Notes on CVPR 2023 Tutorial](https://arxiv.org/pdf/2306.14895.pdf) (from Chunyuan Li, Microsoft.)
 * [2023.06] [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf)
 * [2023.04] [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/pdf/2304.00685.pdf)
