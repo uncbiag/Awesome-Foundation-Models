@@ -149,3 +149,6 @@ using only image prediction as a training criterion; from AWS)
 
 ### Towards AGI
 * [Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models](https://arxiv.org/pdf/2306.08641.pdf) (from Huawei)
+
+## Links to Similar Awesome Repositories
+* [Awesome-CV-Foundational-Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) (maintained by Muhammad Awais)
