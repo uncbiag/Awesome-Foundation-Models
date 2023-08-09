@@ -19,7 +19,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [2022.12] [ Vision-language pre-training: Basics, recent advances, and future trends](https://www.nowpublishers.com/article/Details/CGV-105)
 * [2022.07] [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (This survey first popularizes the concept of foundation model; from Standford)
 
-## By Date
+## Papers by Date
 ### 2023
 * [The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World](https://arxiv.org/pdf/2308.01907.pdf) (from Shanghai AI Lab)
 * [Meta-Transformer: A Unified Framework for Multimodal Learning](https://arxiv.org/pdf/2307.10802.pdf) (from CUHK and Shanghai AI Lab)
@@ -119,7 +119,7 @@ using only image prediction as a training criterion; from AWS)
 * [GPT: Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) (from OpenAI)
 * [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) (NeurIPS, from Google and UoT)
 
-## By Topics
+## Papers by Topic
 ### Vision-Language Pretraining
 * [FLIP: Scaling Language-Image Pre-training via Masking](https://arxiv.org/abs/2212.00794) (from Meta)
 * [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf) (proposes a generic and efficient VLP strategy based on off-the-shelf frozen vision and language models. from Saleforce Research)
