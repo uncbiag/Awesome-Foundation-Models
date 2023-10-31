@@ -5,6 +5,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 
 ## Survey
+* [2023.10] [Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision](https://arxiv.org/pdf/2310.18689.pdf) (from SDSU)
 * [2023.09] [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf) (from Microsoft)
 * [2023.08] [Towards Generalist Foundation Model for Radiology](https://arxiv.org/pdf/2308.02463.pdf) (from SJTU)
 * [2023.07] [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/pdf/2307.13721.pdf) (from MBZ University of AI)
@@ -22,6 +23,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2023
+* [Foundation Models for Generalist Geospatial Artificial Intelligence](https://arxiv.org/pdf/2310.18660.pdf) (from IBM and NASA) 
 * [LLaMA 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf) (from Meta)
 * [InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition](https://arxiv.org/pdf/2309.15112.pdf) (from Shanghai AI Lab)
 * [The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World](https://arxiv.org/pdf/2308.01907.pdf) (from Shanghai AI Lab)
