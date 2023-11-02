@@ -153,11 +153,11 @@ using only image prediction as a training criterion; from AWS)
 * [Green AI](https://dl.acm.org/doi/pdf/10.1145/3381831) (introduces the concept of Red AI vs Green AI)
 * [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf) (the lottery ticket hypothesis, from MIT)
 
-* Other Challenges and Opportunities: Trust, reliability, safe use, interpretability, self-improvement, adaptation, augmentation, specilization, understanding/predicting capability.
+* Other Challenges and Opportunities: Trust, reliability, safe use, interpretability, self-improvement, adaptation, augmentation, and understanding/predicting capability.
 
 ### Towards AGI
 * [Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models](https://arxiv.org/pdf/2306.08641.pdf) (from Huawei)
 
 ## Links to Similar Awesome Repositories
-* [Awesome-CV-Foundational-Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) (maintained by Muhammad Awais)
-* [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) (maintained by Jianing Qiu)
+* [Awesome-CV-Foundational-Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) (maintained by Muhammad Awais) [![Star](https://img.shields.io/github/stars/awaisrauf/Awesome-CV-Foundational-Models.svg?style=social&label=Star)](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
+* [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) (maintained by Jianing Qiu) [![Star](https://img.shields.io/github/stars/Jianing-Qiu/Awesome-Healthcare-Foundation-Models.svg?style=social&label=Star)](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
