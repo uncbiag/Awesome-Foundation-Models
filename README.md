@@ -160,3 +160,4 @@ using only image prediction as a training criterion; from AWS)
 
 ## Links to Similar Awesome Repositories
 * [Awesome-CV-Foundational-Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) (maintained by Muhammad Awais)
+* [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) (maintained by Jianing Qiu)
