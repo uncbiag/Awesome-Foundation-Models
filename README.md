@@ -23,7 +23,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2024
-* [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation](https://arxiv.org/pdf/2401.12208.pdf) (from Stanford and Stability AI)
+* [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation](https://arxiv.org/pdf/2401.12208.pdf) (from Stanford and Stability AI) [![Star](https://img.shields.io/github/stars/Stanford-AIMI/CheXagent.svg?style=social&label=Star)](https://github.com/Stanford-AIMI/CheXagent)
 * [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/pdf/2401.10891.pdf) (from HKU and TikTok) [![Star](https://img.shields.io/github/stars/LiheYoung/Depth-Anything.svg?style=social&label=Star)](https://github.com/LiheYoung/Depth-Anything)
 
 ### 2023
