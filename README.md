@@ -22,6 +22,9 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [2022.07] [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (This survey first popularizes the concept of foundation model; from Standford)
 
 ## Papers by Date
+### 2024
+* [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation](https://arxiv.org/pdf/2401.12208.pdf) (from Stanford and Stability AI)
+
 ### 2023
 * [FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects](https://arxiv.org/abs/2312.08344) (from NVIDIA)
 * [Tracking Everything Everywhere All at Once](https://arxiv.org/abs/2306.05422) (from Cornell, ICCV 2023 best student paper)
