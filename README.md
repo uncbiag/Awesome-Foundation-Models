@@ -23,6 +23,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2024
+* [01/23] [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945) (from Google)
 * [01/22] [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation](https://arxiv.org/pdf/2401.12208.pdf) (from Stanford) [![Star](https://img.shields.io/github/stars/Stanford-AIMI/CheXagent.svg?style=social&label=Star)](https://github.com/Stanford-AIMI/CheXagent)
 * [01/19] [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/pdf/2401.10891.pdf) (from HKU and TikTok) [![Star](https://img.shields.io/github/stars/LiheYoung/Depth-Anything.svg?style=social&label=Star)](https://github.com/LiheYoung/Depth-Anything)
 
