@@ -24,6 +24,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Papers by Date
 ### 2024
 
+* [02/06] [MobileVLM V2: Faster and Stronger Baseline for Vision Language Model](https://arxiv.org/abs/2402.03766) (from Meituan) [![Star](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social&label=Star)](https://github.com/Meituan-AutoML/MobileVLM)
 * [01/30] [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/pdf/2401.17270.pdf) (from Tencent and HUST) [![Star](https://img.shields.io/github/stars/AILab-CVC/YOLO-World.svg?style=social&label=Star)](https://github.com/AILab-CVC/YOLO-World)
 * [01/23] [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945) (from Google)
 * [01/22] [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation](https://arxiv.org/pdf/2401.12208.pdf) (from Stanford) [![Star](https://img.shields.io/github/stars/Stanford-AIMI/CheXagent.svg?style=social&label=Star)](https://github.com/Stanford-AIMI/CheXagent)
