@@ -4,7 +4,8 @@
 A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3) that can be adapted to a wide range of downstream applications. This term was [first popularized](https://crfm.stanford.edu) by the Stanford Institute for Human-Centered Artificial Intelligence. This repository maintains a curated list of foundation models for vision and language tasks. Research papers without code are not included.
 
 
-## Survey
+## Survey 
+* [2024/02] [Real-World Robot Applications of Foundation Models: A Review](https://arxiv.org/pdf/2402.05741.pdf) (from U of Tokyo)
 * [2024/01] [From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities](https://arxiv.org/pdf/2401.15071.pdf) (from Shanghai AI Lab)
 * [2023/10] [Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision](https://arxiv.org/pdf/2310.18689.pdf) (from SDSU)
 * [2023/09] [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf) (from Microsoft)
