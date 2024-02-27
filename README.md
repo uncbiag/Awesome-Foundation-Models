@@ -170,7 +170,6 @@ using only image prediction as a training criterion; from AWS)
 ### Training Efficiency
 * [Green AI](https://dl.acm.org/doi/pdf/10.1145/3381831) (introduces the concept of Red AI vs Green AI)
 * [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf) (the lottery ticket hypothesis, from MIT)
-
 * Other Challenges and Opportunities: Trust, reliability, safe use, interpretability, self-improvement, adaptation, augmentation, and understanding/predicting capability.
 
 ### Towards AGI
