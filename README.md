@@ -5,6 +5,8 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 
 ## Survey 
+
+* [2024/02] [Large Multimodal Agents: A Survey](https://arxiv.org/abs/2402.15116) (from CUHK)
 * [2024/02] [The Uncanny Valley: A Comprehensive Analysis of Diffusion Models](https://arxiv.org/pdf/2402.13369.pdf) (from Mila)
 * [2024/02] [Real-World Robot Applications of Foundation Models: A Review](https://arxiv.org/pdf/2402.05741.pdf) (from U of Tokyo)
 * [2024/01] [From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities](https://arxiv.org/pdf/2401.15071.pdf) (from Shanghai AI Lab)
@@ -177,6 +179,7 @@ using only image prediction as a training criterion; from AWS)
 * [Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models](https://arxiv.org/pdf/2306.08641.pdf) (from Huawei)
 
 ## Links to Similar Awesome Repositories
-* [Awesome-CV-Foundational-Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) (maintained by Muhammad Awais) [![Star](https://img.shields.io/github/stars/awaisrauf/Awesome-CV-Foundational-Models.svg?style=social&label=Star)](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
-* [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) (maintained by Jianing Qiu) [![Star](https://img.shields.io/github/stars/Jianing-Qiu/Awesome-Healthcare-Foundation-Models.svg?style=social&label=Star)](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
 * [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) [![Star](https://img.shields.io/github/stars/diff-usion/Awesome-Diffusion-Models.svg?style=social&label=Star)](https://github.com/diff-usion/Awesome-Diffusion-Models)
+* [Awesome-CV-Foundational-Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) [![Star](https://img.shields.io/github/stars/awaisrauf/Awesome-CV-Foundational-Models.svg?style=social&label=Star)](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
+* [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) [![Star](https://img.shields.io/github/stars/Jianing-Qiu/Awesome-Healthcare-Foundation-Models.svg?style=social&label=Star)](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+* [awesome-large-multimodal-agents](https://github.com/jun0wanan/awesome-large-multimodal-agents) [![Star](https://img.shields.io/github/stars/jun0wanan/awesome-large-multimodal-agents.svg?style=social&label=Star)](https://github.com/jun0wanan/awesome-large-multimodal-agents)
