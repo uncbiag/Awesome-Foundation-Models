@@ -180,6 +180,7 @@ using only image prediction as a training criterion; from AWS)
 
 ## Links to Similar Awesome Repositories
 * [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) [![Star](https://img.shields.io/github/stars/diff-usion/Awesome-Diffusion-Models.svg?style=social&label=Star)](https://github.com/diff-usion/Awesome-Diffusion-Models)
+* [Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models?tab=readme-ov-file) [![Star](https://img.shields.io/github/stars/ChenHsing/Awesome-Video-Diffusion-Models.svg?style=social&label=Star)](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
 * [Awesome-CV-Foundational-Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) [![Star](https://img.shields.io/github/stars/awaisrauf/Awesome-CV-Foundational-Models.svg?style=social&label=Star)](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
 * [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) [![Star](https://img.shields.io/github/stars/Jianing-Qiu/Awesome-Healthcare-Foundation-Models.svg?style=social&label=Star)](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
 * [awesome-large-multimodal-agents](https://github.com/jun0wanan/awesome-large-multimodal-agents) [![Star](https://img.shields.io/github/stars/jun0wanan/awesome-large-multimodal-agents.svg?style=social&label=Star)](https://github.com/jun0wanan/awesome-large-multimodal-agents)
