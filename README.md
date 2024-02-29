@@ -28,6 +28,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Papers by Date
 ### 2024
 
+* [02/27] [Transparent Image Layer Diffusion using Latent Transparency](https://arxiv.org/abs/2402.17113v2) (from Standford)
 * [02/21] [Beyond A∗: Better Planning with Transformers via Search Dynamics Bootstrapping](https://arxiv.org/abs/2402.14083) (from Meta)
 * [02/20] [Neural Network Diffusion](https://arxiv.org/abs/2402.13144) (Generating network parameters via diffusion models. from NUS) [![Star](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/Neural-Network-Diffusion.svg?style=social&label=Star)](https://github.com/NUS-HPC-AI-Lab/Neural-Network-Diffusion)
 * [02/20] [VideoPrism: A Foundational Visual Encoder for Video Understanding](https://arxiv.org/abs/2402.13217) (from Google)
