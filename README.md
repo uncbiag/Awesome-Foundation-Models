@@ -36,7 +36,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 * [03/05] [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) (Stable Diffusion 3. from Stability AI)
 * [03/01] [VisionLLaMA: A Unified LLaMA Interface for Vision Tasks](https://arxiv.org/abs/2403.00522) (from Meituan) [![Star](https://img.shields.io/github/stars/Meituan-AutoML/VisionLLaMA.svg?style=social&label=Star)](https://github.com/Meituan-AutoML/VisionLLaMA)
-* [02/27] [Transparent Image Layer Diffusion using Latent Transparency](https://arxiv.org/abs/2402.17113v2) (Enabling diffusion models to generate transparent images. from Standford)
+* [02/27] [Transparent Image Layer Diffusion using Latent Transparency](https://arxiv.org/abs/2402.17113v2) (from Standford) [![Star](https://img.shields.io/github/stars/layerdiffusion/LayerDiffuse.svg?style=social&label=Star)](https://github.com/layerdiffusion/LayerDiffuse)
 * [02/21] [Beyond A∗: Better Planning with Transformers via Search Dynamics Bootstrapping](https://arxiv.org/abs/2402.14083) (from Meta)
 * [02/20] [Neural Network Diffusion](https://arxiv.org/abs/2402.13144) (Generating network parameters via diffusion models. from NUS) [![Star](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/Neural-Network-Diffusion.svg?style=social&label=Star)](https://github.com/NUS-HPC-AI-Lab/Neural-Network-Diffusion)
 * [02/20] [VideoPrism: A Foundational Visual Encoder for Video Understanding](https://arxiv.org/abs/2402.13217) (from Google)
@@ -46,7 +46,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [01/23] [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945) (from Google)
 * [01/22] [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation](https://arxiv.org/pdf/2401.12208.pdf) (from Stanford) [![Star](https://img.shields.io/github/stars/Stanford-AIMI/CheXagent.svg?style=social&label=Star)](https://github.com/Stanford-AIMI/CheXagent)
 * [01/19] [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/pdf/2401.10891.pdf) (from TikTok) [![Star](https://img.shields.io/github/stars/LiheYoung/Depth-Anything.svg?style=social&label=Star)](https://github.com/LiheYoung/Depth-Anything)
-* [01/16] [SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) (An update of DiT, Diffusion Transformers. from NYU) [![Star](https://img.shields.io/github/stars/willisma/SiT.svg?style=social&label=Star)](https://github.com/willisma/SiT)
+* [01/16] [SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) (from NYU) [![Star](https://img.shields.io/github/stars/willisma/SiT.svg?style=social&label=Star)](https://github.com/willisma/SiT)
 * [01/15] [InstantID: Zero-shot Identity-Preserving Generation in Seconds](https://arxiv.org/abs/2401.07519v2) (from Xiaohongshu) [![Star](https://img.shields.io/github/stars/InstantID/InstantID.svg?style=social&label=Star)](https://github.com/InstantID/InstantID)
 
 ### 2023
