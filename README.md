@@ -35,6 +35,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2024
 
 * [03/05] [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) (Stable Diffusion 3. from Stability AI)
+* [03/01] [Learning and Leveraging World Models in Visual Representation Learning](https://arxiv.org/abs/2403.00504) (from Meta)
 * [03/01] [VisionLLaMA: A Unified LLaMA Interface for Vision Tasks](https://arxiv.org/abs/2403.00522) (from Meituan) [![Star](https://img.shields.io/github/stars/Meituan-AutoML/VisionLLaMA.svg?style=social&label=Star)](https://github.com/Meituan-AutoML/VisionLLaMA)
 * [02/27] [Transparent Image Layer Diffusion using Latent Transparency](https://arxiv.org/abs/2402.17113v2) (from Standford) [![Star](https://img.shields.io/github/stars/layerdiffusion/LayerDiffuse.svg?style=social&label=Star)](https://github.com/layerdiffusion/LayerDiffuse)
 * [02/22] [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) (from Meta)
