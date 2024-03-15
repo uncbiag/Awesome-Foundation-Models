@@ -34,6 +34,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Papers by Date
 ### 2024
 
+* [03/14] [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/pdf/2403.09611.pdf) (30B parameters. from Apple)
 * [03/05] [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) (Stable Diffusion 3. from Stability AI)
 * [03/01] [Learning and Leveraging World Models in Visual Representation Learning](https://arxiv.org/abs/2403.00504) (from Meta)
 * [03/01] [VisionLLaMA: A Unified LLaMA Interface for Vision Tasks](https://arxiv.org/abs/2403.00522) (from Meituan) [![Star](https://img.shields.io/github/stars/Meituan-AutoML/VisionLLaMA.svg?style=social&label=Star)](https://github.com/Meituan-AutoML/VisionLLaMA)
