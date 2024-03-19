@@ -34,6 +34,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Papers by Date
 ### 2024
 
+* [03/18] [Arc2Face: A Foundation Model of Human Faces](https://arxiv.org/abs/2403.11641) (from Imperial College London) [![Star](https://img.shields.io/github/stars/foivospar/Arc2Face.svg?style=social&label=Star)](https://github.com/foivospar/Arc2Face)
 * [03/14] [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/pdf/2403.09611.pdf) (30B parameters. from Apple)
 * [03/09] [uniGradICON: A Foundation Model for Medical Image Registration](https://arxiv.org/abs/2403.05780) (from UNC-Chapel Hill) [![Star](https://img.shields.io/github/stars/uncbiag/uniGradICON.svg?style=social&label=Star)](https://github.com/uncbiag/uniGradICON)
 * [03/05] [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) (Stable Diffusion 3. from Stability AI)
