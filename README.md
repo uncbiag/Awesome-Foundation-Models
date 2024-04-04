@@ -13,7 +13,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [Real-World Robot Applications of Foundation Models: A Review](https://arxiv.org/pdf/2402.05741.pdf) (from U of Tokyo)
 * [From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities](https://arxiv.org/pdf/2401.15071.pdf) (from Shanghai AI Lab)
 
-### 2023
+### Before 2024
 * [Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision](https://arxiv.org/pdf/2310.18689.pdf) (from SDSU)
 * [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf) (from Microsoft)
 * [Towards Generalist Foundation Model for Radiology](https://arxiv.org/pdf/2308.02463.pdf) (from SJTU)
@@ -26,8 +26,6 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [Foundation Models for Generalist Medical Artificial Intelligence](https://www.nature.com/articles/s41586-023-05881-4) (from Stanford)
 * [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
 * [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/pdf/2303.04226.pdf)
-
-### 2022 
 * [Vision-language pre-training: Basics, recent advances, and future trends](https://www.nowpublishers.com/article/Details/CGV-105)
 * [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (This survey first popularizes the concept of foundation model; from Standford)
 
