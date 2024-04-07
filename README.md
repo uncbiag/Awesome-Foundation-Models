@@ -32,6 +32,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Papers by Date
 ### 2024
 
+* [04/02] [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744) (from Stanford) 
 * [04/02] [Mixture-of-Depths: Dynamically allocating compute in transformer-based language models](https://arxiv.org/abs/2404.02258) (from Google)
 * [03/22] [InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding](https://arxiv.org/abs/2403.15377) (from Shanghai AI Lab) [![Star](https://img.shields.io/github/stars/OpenGVLab/InternVideo2.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVideo2)
 * [03/18] [Arc2Face: A Foundation Model of Human Faces](https://arxiv.org/abs/2403.11641) (from Imperial College London) [![Star](https://img.shields.io/github/stars/foivospar/Arc2Face.svg?style=social&label=Star)](https://github.com/foivospar/Arc2Face)
