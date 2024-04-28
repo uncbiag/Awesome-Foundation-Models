@@ -7,6 +7,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Survey 
 ### 2024
 
+* [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/pdf/2403.14608) (from Northeastern U)
 * [A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177v2) (from Lehigh U)
 * [Large Multimodal Agents: A Survey](https://arxiv.org/abs/2402.15116) (from CUHK)
 * [The Uncanny Valley: A Comprehensive Analysis of Diffusion Models](https://arxiv.org/pdf/2402.13369.pdf) (from Mila)
