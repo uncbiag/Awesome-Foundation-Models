@@ -7,13 +7,14 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Survey 
 ### 2024
 
-* [Foundation Models for Video Understanding: A Survey](https://arxiv.org/abs/2405.03770) (from Aalborg U)
+* [Foundation Models for Video Understanding: A Survey](https://arxiv.org/abs/2405.03770) (from Aalborg University)
 * [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](https://arxiv.org/abs/2405.03520) (from GigaAI)
-* [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/pdf/2403.14608) (from Northeastern U)
-* [A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177v2) (from Lehigh U)
+* [Prospective Role of Foundation Models in Advancing Autonomous Vehicles](https://arxiv.org/pdf/2405.02288) (from Tongji University)
+* [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/pdf/2403.14608) (from Northeastern University)
+* [A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177v2) (from Lehigh University)
 * [Large Multimodal Agents: A Survey](https://arxiv.org/abs/2402.15116) (from CUHK)
 * [The Uncanny Valley: A Comprehensive Analysis of Diffusion Models](https://arxiv.org/pdf/2402.13369.pdf) (from Mila)
-* [Real-World Robot Applications of Foundation Models: A Review](https://arxiv.org/pdf/2402.05741.pdf) (from U of Tokyo)
+* [Real-World Robot Applications of Foundation Models: A Review](https://arxiv.org/pdf/2402.05741.pdf) (from University of Tokyo)
 * [From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities](https://arxiv.org/pdf/2401.15071.pdf) (from Shanghai AI Lab)
 
 ### Before 2024
