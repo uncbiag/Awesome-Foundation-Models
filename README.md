@@ -182,12 +182,12 @@ using only image prediction as a training criterion; from AWS)
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (from Google) [![Star](https://img.shields.io/github/stars/google-research/text-to-text-transfer-transformer.svg?style=social&label=Star)](https://github.com/google-research/text-to-text-transfer-transformer)
 
 ### Large Benchmarks
-* [BLINK: Multimodal Large Language Models Can See but Not Perceive](https://arxiv.org/abs/2404.12390) (Multimodal benchmark. from University of Pennsylvania)
-* [ImageNet: A Large-Scale Hierarchical Image Database](https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf) (Vision benchmark. from Stanford)
+* [BLINK: Multimodal Large Language Models Can See but Not Perceive](https://arxiv.org/abs/2404.12390) (multimodal benchmark. from University of Pennsylvania, 2024)
+* [ImageNet: A Large-Scale Hierarchical Image Database](https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf) (vision benchmark. from Stanford, 2009)
 
 ### Vision-Language Pretraining
 * [FLIP: Scaling Language-Image Pre-training via Masking](https://arxiv.org/abs/2212.00794) (from Meta)
-* [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf) (proposes a generic and efficient VLP strategy based on off-the-shelf frozen vision and language models. from Saleforce Research)
+* [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf) (proposes a generic and efficient VLP strategy based on off-the-shelf frozen vision and language models. from Salesforce Research)
 * [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n/li22n.pdf) (from Salesforce Research)
 * [SLIP: Self-supervision meets Language-Image Pre-training](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860514.pdf) (ECCV, from UC Berkeley and Meta)
 * [GLIP: Grounded Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf) (CVPR, from UCLA and Microsoft)
