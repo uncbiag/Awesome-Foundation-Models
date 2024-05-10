@@ -36,6 +36,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Papers by Date
 ### 2024
 
+* [05/09] [Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers](https://arxiv.org/abs/2405.05945) (from Shanghai AI Lab) [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-T2X)
 * [05/07] [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517) (from Sepp Hochreiter, the author of LSTM.)
 * [05/03] [Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models](https://arxiv.org/abs/2405.02287) [![Star](https://img.shields.io/github/stars/reka-ai/reka-vibe-eval.svg?style=social&label=Star)](https://github.com/reka-ai/reka-vibe-eval)
 * [04/30] [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) (Promising alternatives of MLPs. from MIT) [![Star](https://img.shields.io/github/stars/KindXiaoming/pykan.svg?style=social&label=Star)](https://github.com/KindXiaoming/pykan)
