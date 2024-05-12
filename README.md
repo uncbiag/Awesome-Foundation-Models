@@ -186,7 +186,7 @@ using only image prediction as a training criterion; from AWS)
 
 ### Large Benchmarks
 * [BLINK: Multimodal Large Language Models Can See but Not Perceive](https://arxiv.org/abs/2404.12390) (multimodal benchmark. from University of Pennsylvania, 2024)
-* [CAD-Estate: Large-scale CAD Model Annotation in RGB Videos](https://arxiv.org/abs/2306.09011) (RGB videos with CAD annotation. from Google 2024)
+* [CAD-Estate: Large-scale CAD Model Annotation in RGB Videos](https://arxiv.org/abs/2306.09011) (RGB videos with CAD annotation. from Google 2023)
 * [ImageNet: A Large-Scale Hierarchical Image Database](https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf) (vision benchmark. from Stanford, 2009)
 
 ### Vision-Language Pretraining
