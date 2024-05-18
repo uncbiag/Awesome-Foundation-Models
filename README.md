@@ -38,6 +38,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
  
 * [05/09] [Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers](https://arxiv.org/abs/2405.05945) (from Shanghai AI Lab) [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-T2X)
 * [05/08] [You Only Cache Once: Decoder-Decoder Architectures for Language Models](https://arxiv.org/abs/2405.05254) [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm)
+* [05/06] [Advancing Multimodal Medical Capabilities of Gemini](https://arxiv.org/abs/2405.03162) (from Google)
 * [05/07] [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517) (from Sepp Hochreiter, the author of LSTM.)
 * [05/03] [Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models](https://arxiv.org/abs/2405.02287) [![Star](https://img.shields.io/github/stars/reka-ai/reka-vibe-eval.svg?style=social&label=Star)](https://github.com/reka-ai/reka-vibe-eval)
 * [04/30] [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) (Promising alternatives of MLPs. from MIT) [![Star](https://img.shields.io/github/stars/KindXiaoming/pykan.svg?style=social&label=Star)](https://github.com/KindXiaoming/pykan)
