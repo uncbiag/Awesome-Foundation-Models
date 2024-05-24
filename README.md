@@ -212,10 +212,12 @@ using only image prediction as a training criterion; from AWS)
 ### Training Efficiency
 * [Green AI](https://dl.acm.org/doi/pdf/10.1145/3381831) (introduces the concept of Red AI vs Green AI)
 * [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf) (the lottery ticket hypothesis, from MIT)
-* Other Challenges and Opportunities: Trust, reliability, safe use, interpretability, self-improvement, adaptation, augmentation, and understanding/predicting capability.
 
-### Towards AGI
+### Towards Artificial General Intelligence (AGI)
 * [Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models](https://arxiv.org/pdf/2306.08641.pdf) (from Huawei)
+
+### AI Safety and Responsibility
+* [Managing Extreme AI Risks amid Rapid Progress](https://www.science.org/doi/10.1126/science.adn0117) (from Science)
 
 ## Related Awesome Repositories
 * [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) [![Star](https://img.shields.io/github/stars/diff-usion/Awesome-Diffusion-Models.svg?style=social&label=Star)](https://github.com/diff-usion/Awesome-Diffusion-Models)
