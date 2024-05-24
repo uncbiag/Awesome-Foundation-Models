@@ -217,7 +217,7 @@ using only image prediction as a training criterion; from AWS)
 * [Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models](https://arxiv.org/pdf/2306.08641.pdf) (from Huawei)
 
 ### AI Safety and Responsibility
-* [Managing Extreme AI Risks amid Rapid Progress](https://www.science.org/doi/10.1126/science.adn0117) (from Science)
+* [Managing Extreme AI Risks amid Rapid Progress](https://www.science.org/doi/10.1126/science.adn0117) (from Science, May 2024)
 
 ## Related Awesome Repositories
 * [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) [![Star](https://img.shields.io/github/stars/diff-usion/Awesome-Diffusion-Models.svg?style=social&label=Star)](https://github.com/diff-usion/Awesome-Diffusion-Models)
