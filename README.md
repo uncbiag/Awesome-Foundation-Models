@@ -36,7 +36,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2024
-
+* [05/22] [Attention as an RNN](https://arxiv.org/pdf/2405.13956) (from Mila & Borealis AI)
 * [05/21] [BiomedParse: a biomedical foundation model for biomedical image parsing](https://arxiv.org/abs/2405.12971) (from Microsoft)
 * [05/17] [Observational Scaling Laws and the Predictability of Language Model Performance](https://arxiv.org/abs/2405.10938) (fro Standford)
 * [05/14] [Understanding the performance gap between online and offline alignment algorithms](https://arxiv.org/pdf/2405.08448) (from Google)
