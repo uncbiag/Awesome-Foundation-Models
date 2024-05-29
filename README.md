@@ -38,6 +38,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2024
 * [05/22] [Attention as an RNN](https://arxiv.org/pdf/2405.13956) (from Mila & Borealis AI)
 * [05/21] [BiomedParse: a biomedical foundation model for biomedical image parsing](https://arxiv.org/abs/2405.12971) (from Microsoft)
+* [05/20] [Octo: An Open-Source Generalist Robot Policy](https://arxiv.org/abs/2405.12213) (from UC Berkeley) [![Star](https://img.shields.io/github/stars/octo-models/octo.svg?style=social&label=Star)](https://github.com/octo-models/octo)
 * [05/17] [Observational Scaling Laws and the Predictability of Language Model Performance](https://arxiv.org/abs/2405.10938) (fro Standford)
 * [05/14] [Understanding the performance gap between online and offline alignment algorithms](https://arxiv.org/pdf/2405.08448) (from Google)
 * [05/09] [Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers](https://arxiv.org/abs/2405.05945) (from Shanghai AI Lab) [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-T2X)
