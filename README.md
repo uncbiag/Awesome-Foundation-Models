@@ -36,6 +36,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2024
+* [05/31] [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853) (from Fudan University) [![Star](https://img.shields.io/github/stars/OpenMeshLab/MeshXL.svg?style=social&label=Star)](https://github.com/OpenMeshLab/MeshXL)
 * [05/22] [Attention as an RNN](https://arxiv.org/pdf/2405.13956) (from Mila & Borealis AI)
 * [05/21] [BiomedParse: a biomedical foundation model for biomedical image parsing](https://arxiv.org/abs/2405.12971) (from Microsoft)
 * [05/20] [Octo: An Open-Source Generalist Robot Policy](https://arxiv.org/abs/2405.12213) (from UC Berkeley) [![Star](https://img.shields.io/github/stars/octo-models/octo.svg?style=social&label=Star)](https://github.com/octo-models/octo)
