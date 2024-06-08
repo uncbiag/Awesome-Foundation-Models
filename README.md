@@ -184,12 +184,18 @@ using only image prediction as a training criterion; from AWS)
 
 ## Topics
 
-### Large Language Models
+### Large Language Models (LLM)
 * [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf) (from OpenAI)
 * [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (175B parameters; permits in-context learning compared with GPT-2; from OpenAI)
 * [GPT-2: Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) (1.5B parameters; from OpenAI)
 * [GPT: Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) (from OpenAI)
+* [LLaMA 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf) (from Meta)
+* [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971v1.pdf) (models ranging from 7B to 65B parameters; from Meta)
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (from Google) [![Star](https://img.shields.io/github/stars/google-research/text-to-text-transfer-transformer.svg?style=social&label=Star)](https://github.com/google-research/text-to-text-transfer-transformer)
+
+### Large Multimodal Model (LMM)
+* [LLaVA: Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) (from University of Wisconsin-Madison) [![Star](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg?style=social&label=Star)](https://github.com/haotian-liu/LLaVA)
+* [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592) (from KAUST) [![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star)](https://github.com/Vision-CAIR/MiniGPT-4)
 
 ### Large Benchmarks
 * [BLINK: Multimodal Large Language Models Can See but Not Perceive](https://arxiv.org/abs/2404.12390) (multimodal benchmark. from University of Pennsylvania, 2024)
