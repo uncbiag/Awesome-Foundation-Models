@@ -81,6 +81,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [01/15] [InstantID: Zero-shot Identity-Preserving Generation in Seconds](https://arxiv.org/abs/2401.07519v2) (from Xiaohongshu) [![Star](https://img.shields.io/github/stars/InstantID/InstantID.svg?style=social&label=Star)](https://github.com/InstantID/InstantID)
 
 ### 2023
+* [BioCLIP: A Vision Foundation Model for the Tree of Life](https://arxiv.org/abs/2311.18803) (CVPR 2024 best student paper)
 * [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) (Mamba appears to outperform similarly-sized Transformers while scaling linearly with sequence length. from CMU)
 * [FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects](https://arxiv.org/abs/2312.08344) (from NVIDIA)
 * [Tracking Everything Everywhere All at Once](https://arxiv.org/abs/2306.05422) (from Cornell, ICCV 2023 best student paper)
