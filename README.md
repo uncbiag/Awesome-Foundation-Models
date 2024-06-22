@@ -40,7 +40,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2024
 * [06/10] [Merlin: A Vision Language Foundation Model for 3D Computed Tomography](https://arxiv.org/abs/2406.06512) (from Stanford. Code will be available.)
 * [06/06] [Vision-LSTM: xLSTM as Generic Vision Backbone](https://arxiv.org/pdf/2406.04303) (from LSTM authors) [![Star](https://img.shields.io/github/stars/NX-AI/vision-lstm.svg?style=social&label=Star)](https://github.com/NX-AI/vision-lstm)
-* [05/31] [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853) (from Fudan University) [![Star](https://img.shields.io/github/stars/OpenMeshLab/MeshXL.svg?style=social&label=Star)](https://github.com/OpenMeshLab/MeshXL)
+* [05/31] [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853) (from Fudan) [![Star](https://img.shields.io/github/stars/OpenMeshLab/MeshXL.svg?style=social&label=Star)](https://github.com/OpenMeshLab/MeshXL)
 * [05/22] [Attention as an RNN](https://arxiv.org/pdf/2405.13956) (from Mila & Borealis AI)
 * [05/22] [GigaPath: A whole-slide foundation model for digital pathology from real-world data](https://www.nature.com/articles/s41586-024-07441-w) (from Nature) [![Star](https://img.shields.io/github/stars/prov-gigapath/prov-gigapath.svg?style=social&label=Star)](https://github.com/prov-gigapath/prov-gigapath)
 * [05/21] [BiomedParse: a biomedical foundation model for biomedical image parsing](https://arxiv.org/abs/2405.12971) (from Microsoft)
