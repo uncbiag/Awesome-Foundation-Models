@@ -38,6 +38,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2024
+* [06/13] [4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities](https://arxiv.org/abs/2406.09406) (from EPFL and Apple) [![Star](https://img.shields.io/github/stars/apple/ml-4m.svg?style=social&label=Star)](https://github.com/apple/ml-4m)
 * [06/10] [Merlin: A Vision Language Foundation Model for 3D Computed Tomography](https://arxiv.org/abs/2406.06512) (from Stanford. Code will be available.)
 * [06/06] [Vision-LSTM: xLSTM as Generic Vision Backbone](https://arxiv.org/pdf/2406.04303) (from LSTM authors) [![Star](https://img.shields.io/github/stars/NX-AI/vision-lstm.svg?style=social&label=Star)](https://github.com/NX-AI/vision-lstm)
 * [05/31] [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853) (from Fudan) [![Star](https://img.shields.io/github/stars/OpenMeshLab/MeshXL.svg?style=social&label=Star)](https://github.com/OpenMeshLab/MeshXL)
