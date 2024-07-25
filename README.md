@@ -39,6 +39,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Papers by Date
 ### 2024
 * [07/24] [PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects](https://arxiv.org/abs/2407.16696) (from HUST and ByteDance)
+* [07/12] [Transformer Layers as Painters](https://arxiv.org/abs/2407.09298) (from Sakana AI)
 * [06/24] [Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs](https://arxiv.org/abs/2406.16860) (from NYU) [![Star](https://img.shields.io/github/stars/cambrian-mllm/cambrian.svg?style=social&label=Star)](https://github.com/cambrian-mllm/cambrian)
 * [06/13] [4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities](https://arxiv.org/abs/2406.09406) (from EPFL and Apple) [![Star](https://img.shields.io/github/stars/apple/ml-4m.svg?style=social&label=Star)](https://github.com/apple/ml-4m)
 * [06/10] [Merlin: A Vision Language Foundation Model for 3D Computed Tomography](https://arxiv.org/abs/2406.06512) (from Stanford. Code will be available.)
