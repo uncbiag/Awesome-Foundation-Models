@@ -38,6 +38,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2024
+* [07/31] [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 * [07/29] [SAM 2: Segment Anything in Images and Videos](https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/453323338_287900751050452_6064535069828837026_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=TnvI-AaGawoQ7kNvgEnn-kA&_nc_ht=scontent-iad3-1.xx&oh=00_AYC137o55X1E1VpPuz_T6G2uGE_GBeDdvZSOb1umrbAAxA&oe=66AE2179) (from Meta) [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything-2.svg?style=social&label=Star)](https://github.com/facebookresearch/segment-anything-2)
 * [07/24] [PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects](https://arxiv.org/abs/2407.16696) (from HUST and ByteDance)
 * [07/17] [EVE: Unveiling Encoder-Free Vision-Language Models](https://arxiv.org/abs/2406.11832) (from BAAI) [![Star](https://img.shields.io/github/stars/baaivision/EVE.svg?style=social&label=Star)](https://github.com/baaivision/EVE)
