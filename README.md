@@ -6,7 +6,8 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Survey 
 ### 2024
-* [Towards Vision-Language Geo-Foundation Model: A Survey](https://arxiv.org/pdf/2406.09385) (Nanyang Technological University)
+* [Image Segmentation in Foundation Model Era: A Survey](https://arxiv.org/abs/2408.12957) (from Beijing Institute of Technology)
+* [Towards Vision-Language Geo-Foundation Model: A Survey](https://arxiv.org/pdf/2406.09385) (from Nanyang Technological University)
 * [An Introduction to Vision-Language Modeling](https://arxiv.org/abs/2405.17247) (from Meta)
 * [The Evolution of Multimodal Model Architectures](https://arxiv.org/pdf/2405.17927) (from Purdue University)
 * [Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2405.10739) (from Tencent)
