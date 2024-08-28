@@ -200,7 +200,7 @@ using only image prediction as a training criterion; from AWS)
 * [GPT: Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) (from OpenAI)
 * [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) (NeurIPS, from Google and UoT)
 
-## Topics
+## Papers by Topic
 
 ### Large Language Models (LLM)
 * [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf) (from OpenAI)
