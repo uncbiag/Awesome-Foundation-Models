@@ -232,6 +232,7 @@ using only image prediction as a training criterion; from AWS)
 * [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) (from OpenAI)
 
 ### Perception Tasks: Detection, Segmentation, and Pose Estimation
+* [SAM 2: Segment Anything in Images and Videos](https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/453323338_287900751050452_6064535069828837026_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=TnvI-AaGawoQ7kNvgEnn-kA&_nc_ht=scontent-iad3-1.xx&oh=00_AYC137o55X1E1VpPuz_T6G2uGE_GBeDdvZSOb1umrbAAxA&oe=66AE2179) (from Meta) [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything-2.svg?style=social&label=Star)](https://github.com/facebookresearch/segment-anything-2)
 * [FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects](https://arxiv.org/abs/2312.08344) (from NVIDIA)
 * [SEEM: Segment Everything Everywhere All at Once](https://arxiv.org/pdf/2304.06718.pdf) (from University of Wisconsin-Madison, HKUST, and Microsoft)
 * [SAM: Segment Anything](https://github.com/facebookresearch/segment-anything) (the first foundation model for image segmentation; from Meta) [![Star](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?style=social&label=Star)](https://github.com/facebookresearch/segment-anything)
