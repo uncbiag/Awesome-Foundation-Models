@@ -245,6 +245,7 @@ using only image prediction as a training criterion; from AWS)
 * [Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models](https://arxiv.org/pdf/2306.08641.pdf) (from Huawei)
 
 ### AI Safety and Responsibility
+* [Bounding the probability of harm from an AI to create a guardrail](https://yoshuabengio.org/2024/08/29/bounding-the-probability-of-harm-from-an-ai-to-create-a-guardrail/) (blog from Yoshua Bengio)
 * [Managing Extreme AI Risks amid Rapid Progress](https://www.science.org/doi/10.1126/science.adn0117) (from Science, May 2024)
 
 ## Related Awesome Repositories
