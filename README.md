@@ -217,6 +217,7 @@ using only image prediction as a training criterion; from AWS)
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (from Google) [![Star](https://img.shields.io/github/stars/google-research/text-to-text-transfer-transformer.svg?style=social&label=Star)](https://github.com/google-research/text-to-text-transfer-transformer)
 
 ### Linear Attention
+* [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) [![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)](https://github.com/Dao-AILab/flash-attention)
 * [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) [![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)](https://github.com/Dao-AILab/flash-attention)
 
 
