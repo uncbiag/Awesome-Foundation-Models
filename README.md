@@ -40,6 +40,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2024
+* [09/25] [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models](https://arxiv.org/abs/2409.17146) (from Allen AI and UW)
 * [09/18] [Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191) (from Alibaba) [![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen2-VL)
 * [09/18] [Moshi: a speech-text foundation model for real-time dialogue](https://kyutai.org/Moshi.pdf) (from Kyutai) [![Star](https://img.shields.io/github/stars/kyutai-labs/moshi.svg?style=social&label=Star)](https://github.com/kyutai-labs/moshi)
 * [08/27] [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) (from Google)
