@@ -40,7 +40,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2024
-* [07/27] [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869) (from BAAI) [![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star)](https://github.com/baaivision/Emu3)
+* [09/27] [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869) (from BAAI) [![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star)](https://github.com/baaivision/Emu3)
 * [09/25] [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models](https://arxiv.org/abs/2409.17146) (from Allen AI)
 * [09/18] [Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191) (from Alibaba) [![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen2-VL)
 * [09/18] [Moshi: a speech-text foundation model for real-time dialogue](https://kyutai.org/Moshi.pdf) (from Kyutai) [![Star](https://img.shields.io/github/stars/kyutai-labs/moshi.svg?style=social&label=Star)](https://github.com/kyutai-labs/moshi)
