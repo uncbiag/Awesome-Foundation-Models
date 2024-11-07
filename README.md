@@ -6,6 +6,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Survey 
 ### 2024
+* [Language Agents](https://www.proquest.com/docview/3066609040?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (from Princeton Shunyu Yao's PhD Dissertation)
 * [A Systematic Survey on Large Language Models for Algorithm Design](https://arxiv.org/abs/2410.14716) (from City Univ. of Hong Kong)
 * [Image Segmentation in Foundation Model Era: A Survey](https://arxiv.org/abs/2408.12957) (from Beijing Institute of Technology)
 * [Towards Vision-Language Geo-Foundation Model: A Survey](https://arxiv.org/pdf/2406.09385) (from Nanyang Technological University)
@@ -231,7 +232,6 @@ using only image prediction as a training criterion; from AWS)
 ### Linear Attention
 * [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) [![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)](https://github.com/Dao-AILab/flash-attention)
 * [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) [![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)](https://github.com/Dao-AILab/flash-attention)
-
 
 ### Large Benchmarks
 * [MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI](https://arxiv.org/abs/2404.16006) (from Shanghai AI Lab, 2024)
