@@ -43,6 +43,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Papers by Date
 ### 2024
 
+* [10/31] [Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/pdf/2411.00114) (from Altera.AL)
 * [10/30] [Reward Centering](https://arxiv.org/abs/2405.09999) (from Richard Sutton, University of Alberta)
 * [10/21] [Long Term Memory : The Foundation of AI Self-Evolution](https://arxiv.org/abs/2410.15665) (from Tianqiao and Chrissy Chen Institute)
 * [10/10] [Scaling Up Your Kernels: Large Kernel Design in ConvNets towards Universal Representations](https://arxiv.org/abs/2410.08049) (from CUHK) [![Star](https://img.shields.io/github/stars/AILab-CVC/UniRepLKNet.svg?style=social&label=Star)](https://github.com/AILab-CVC/UniRepLKNet)
