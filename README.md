@@ -6,7 +6,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Survey 
 ### 2024
-* [Language Agents](https://www.proquest.com/docview/3066609040?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (from Princeton Shunyu Yao's PhD thesis)
+* [Language Agents](https://www.proquest.com/docview/3066609040?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (from Princeton Shunyu Yao's PhD thesis. [Blog1](https://princeton-nlp.github.io/language-agent-impact/), [Blog2](https://lilianweng.github.io/posts/2023-06-23-agent/))
 * [A Systematic Survey on Large Language Models for Algorithm Design](https://arxiv.org/abs/2410.14716) (from City Univ. of Hong Kong)
 * [Image Segmentation in Foundation Model Era: A Survey](https://arxiv.org/abs/2408.12957) (from Beijing Institute of Technology)
 * [Towards Vision-Language Geo-Foundation Model: A Survey](https://arxiv.org/pdf/2406.09385) (from Nanyang Technological University)
