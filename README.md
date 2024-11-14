@@ -43,6 +43,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Papers by Date
 ### 2024
 
+* [11/14] [Scaling Laws for Precision](https://arxiv.org/pdf/2411.04330) (from Harvard)
 * [10/31] [Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/pdf/2411.00114) (from Altera.AL)
 * [10/30] [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](https://arxiv.org/pdf/2410.23168) (from Max Planck Institute for Informatics) [![Star](https://img.shields.io/github/stars/Haiyang-W/TokenFormer.svg?style=social&label=Star)](https://github.com/Haiyang-W/TokenFormer)
 * [10/30] [Reward Centering](https://arxiv.org/abs/2405.09999) (from Richard Sutton, University of Alberta)
