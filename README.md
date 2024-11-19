@@ -44,6 +44,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2024
 
 * [11/14] [Scaling Laws for Precision](https://arxiv.org/pdf/2411.04330) (from Harvard)
+* [11/13] [NeuralFeels with neural fields: Visuotactile perception for in-hand manipulation](https://www.science.org/doi/10.1126/scirobotics.adl0628) (from Meta) [![Star](https://img.shields.io/github/stars/facebookresearch/neuralfeels.svg?style=social&label=Star)](https://github.com/facebookresearch/neuralfeels)
 * [11/07] [DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning](https://arxiv.org/abs/2411.04983) (from New York University)
 * [10/31] [Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/pdf/2411.00114) (from Altera.AL)
 * [10/30] [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](https://arxiv.org/pdf/2410.23168) (from Max Planck Institute for Informatics) [![Star](https://img.shields.io/github/stars/Haiyang-W/TokenFormer.svg?style=social&label=Star)](https://github.com/Haiyang-W/TokenFormer)
