@@ -237,6 +237,7 @@ using only image prediction as a training criterion; from AWS)
 * [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) [![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)](https://github.com/Dao-AILab/flash-attention)
 
 ### Large Benchmarks
+* [OphNet: A Large-Scale Video Benchmark for Ophthalmic Surgical Workflow Understanding](https://arxiv.org/abs/2406.07471) (large-scale annotated video benchmark for ophthalmic surgery. from Monash, 2024)
 * [MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI](https://arxiv.org/abs/2404.16006) (from Shanghai AI Lab, 2024)
 * [BLINK: Multimodal Large Language Models Can See but Not Perceive](https://arxiv.org/abs/2404.12390) (multimodal benchmark. from University of Pennsylvania, 2024)
 * [CAD-Estate: Large-scale CAD Model Annotation in RGB Videos](https://arxiv.org/abs/2306.09011) (RGB videos with CAD annotation. from Google 2023)
