@@ -43,6 +43,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ## Papers by Date
 ### 2024
 
+* [12/04] [Navigation World Models](https://arxiv.org/abs/2412.03572) (from Meta) 
 * [12/03] [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603) (from Tencent) [![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star)](https://github.com/Tencent/HunyuanVideo)
 * [11/21] [DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding](https://arxiv.org/abs/2411.14347) (from IDEA)
 * [11/14] [Scaling Laws for Precision](https://arxiv.org/pdf/2411.04330) (from Harvard)
