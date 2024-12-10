@@ -279,6 +279,7 @@ using only image prediction as a training criterion; from AWS)
 * [Managing Extreme AI Risks amid Rapid Progress](https://www.science.org/doi/10.1126/science.adn0117) (from Science, May 2024)
 
 ## Related Awesome Repositories
+* [Awesome-World-Models](https://github.com/PatrickHua/Awesome-World-Models) [![Star](https://img.shields.io/github/stars/PatrickHua/Awesome-World-Models.svg?style=social&label=Star)](https://github.com/PatrickHua/Awesome-World-Models)
 * [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) [![Star](https://img.shields.io/github/stars/diff-usion/Awesome-Diffusion-Models.svg?style=social&label=Star)](https://github.com/diff-usion/Awesome-Diffusion-Models)
 * [Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models?tab=readme-ov-file) [![Star](https://img.shields.io/github/stars/ChenHsing/Awesome-Video-Diffusion-Models.svg?style=social&label=Star)](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
 * [Awesome-Diffusion-Model-Based-Image-Editing-Methods](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) [![Star](https://img.shields.io/github/stars/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods.svg?style=social&label=Star)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
