@@ -41,8 +41,10 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 * [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (This survey first popularizes the concept of foundation model; from Standford)
 
 ## Papers by Date
-### 2024
+### 2025
+* [01/06] [Cosmos World Foundation Model Platform for Physical AI](https://research.nvidia.com/publication/2025-01_cosmos-world-foundation-model-platform-physical-ai) (from NVIDIA) [![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos?tab=readme-ov-file)
 
+### 2024
 * [12/19] [Genesis: A Generative and Universal Physics Engine for Robotics and Beyond](https://genesis-embodied-ai.github.io/) (from CMU) [![Star](https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis.svg?style=social&label=Star)](https://github.com/Genesis-Embodied-AI/Genesis)
 * [12/04] [Navigation World Models](https://arxiv.org/abs/2412.03572) (from Meta)
 * [12/03] [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603) (from Tencent) [![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star)](https://github.com/Tencent/HunyuanVideo)
