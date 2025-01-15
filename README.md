@@ -42,6 +42,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2025
+* [01/14] [MiniMax-01: Scaling Foundation Models with Lightning Attention](https://arxiv.org/abs/2501.08313) (from MiniMax) [![Star](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/MiniMax-AI/MiniMax-01)
 * [01/06] [Cosmos World Foundation Model Platform for Physical AI](https://research.nvidia.com/publication/2025-01_cosmos-world-foundation-model-platform-physical-ai) (from NVIDIA) [![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos?tab=readme-ov-file)
 
 ### 2024
