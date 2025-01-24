@@ -42,11 +42,12 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2025
+* [01/22] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) (from DeepSeek-AI) [![Star](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/deepseek-ai/DeepSeek-R1)
 * [01/14] [MiniMax-01: Scaling Foundation Models with Lightning Attention](https://arxiv.org/abs/2501.08313) (from MiniMax) [![Star](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/MiniMax-AI/MiniMax-01)
 * [01/06] [Cosmos World Foundation Model Platform for Physical AI](https://research.nvidia.com/publication/2025-01_cosmos-world-foundation-model-platform-physical-ai) (from NVIDIA) [![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos?tab=readme-ov-file)
 
 ### 2024
-* [12/27] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
+* [12/27] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) (from DeepSeek-AI)
 * [12/26] [Multi-matrix Factorization Attention](https://arxiv.org/abs/2412.19255) (from StepFun) 
 * [12/19] [Genesis: A Generative and Universal Physics Engine for Robotics and Beyond](https://genesis-embodied-ai.github.io/) (from CMU) [![Star](https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis.svg?style=social&label=Star)](https://github.com/Genesis-Embodied-AI/Genesis)
 * [12/04] [Navigation World Models](https://arxiv.org/abs/2412.03572) (from Meta)
