@@ -4,7 +4,7 @@
 A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3) that can be adapted to a wide range of downstream applications. This term was [first popularized](https://crfm.stanford.edu) by the Stanford Institute for Human-Centered Artificial Intelligence. This repository maintains a curated list of foundation models for vision and language tasks. Research papers without code are not included.
 
 
-## Survey 
+## Survey
 ### 2024
 * [Language Agents](https://www.proquest.com/docview/3066609040?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (from Princeton Shunyu Yao's PhD thesis. [Blog1](https://princeton-nlp.github.io/language-agent-impact/), [Blog2](https://lilianweng.github.io/posts/2023-06-23-agent/))
 * [A Systematic Survey on Large Language Models for Algorithm Design](https://arxiv.org/abs/2410.14716) (from City Univ. of Hong Kong)
@@ -234,7 +234,6 @@ using only image prediction as a training criterion; from AWS)
 * [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) (NeurIPS, from Google and UoT)
 
 ## Papers by Topic
-
 ### Large Language/Multimodal Models 
 * [LLaVA: Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) (from University of Wisconsin-Madison) [![Star](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg?style=social&label=Star)](https://github.com/haotian-liu/LLaVA)
 * [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592) (from KAUST) [![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star)](https://github.com/Vision-CAIR/MiniGPT-4)
@@ -284,6 +283,9 @@ using only image prediction as a training criterion; from AWS)
 ### AI Safety and Responsibility
 * [Bounding the probability of harm from an AI to create a guardrail](https://yoshuabengio.org/2024/08/29/bounding-the-probability-of-harm-from-an-ai-to-create-a-guardrail/) (blog from Yoshua Bengio)
 * [Managing Extreme AI Risks amid Rapid Progress](https://www.science.org/doi/10.1126/science.adn0117) (from Science, May 2024)
+
+## Tutorials
+* [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) (from Northeastern University, 2025)
 
 ## Related Awesome Repositories
 * [Awesome-World-Models](https://github.com/PatrickHua/Awesome-World-Models) [![Star](https://img.shields.io/github/stars/PatrickHua/Awesome-World-Models.svg?style=social&label=Star)](https://github.com/PatrickHua/Awesome-World-Models)
