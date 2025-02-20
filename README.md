@@ -42,6 +42,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2025
+* [02/16] [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/pdf/2502.11089) (from DeepSeek-AI)
 * [02/07] [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/pdf/2502.05171) (from Max-Planck) [![Star](https://img.shields.io/github/stars/seal-rg/recurrent-pretraining?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/seal-rg/recurrent-pretraining)
 * [02/05] [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387) (from SJTU) [![Star](https://img.shields.io/github/stars/GAIR-NLP/LIMO?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/GAIR-NLP/LIMO)
 * [02/04] [VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models](https://arxiv.org/abs/2502.02492) (from Meta)
