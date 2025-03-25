@@ -42,6 +42,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2025
+* [03/25] [AETHER: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) (from Shanghai AI Lab) [![Star](https://img.shields.io/github/stars/OpenRobotLab/Aether?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/OpenRobotLab/Aether)
 * [02/18] [Magma: A Foundation Model for Multimodal AI Agents](https://www.arxiv.org/abs/2502.13130) (from Microsoft) [![Star](https://img.shields.io/github/stars/microsoft/Magma?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/microsoft/Magma)
 * [02/16] [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089) (from DeepSeek-AI)
 * [02/07] [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171) (from Max-Planck) [![Star](https://img.shields.io/github/stars/seal-rg/recurrent-pretraining?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/seal-rg/recurrent-pretraining)
