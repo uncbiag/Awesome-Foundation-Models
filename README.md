@@ -42,6 +42,7 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2025
+* [04/03] [ROBOVERSE: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning](https://roboverseorg.github.io/static/pdfs/roboverse.pdf) (from UC Berkeley) [![Star](https://img.shields.io/github/stars/RoboVerseOrg/RoboVerse?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/RoboVerseOrg/RoboVerse)
 * [03/31] [PathOrchestra: A Comprehensive Foundation Model for Computational Pathology with Over 100 Diverse Clinical-Grade Tasks](https://arxiv.org/abs/2503.24345) (from Shanghai AI Lab)
 * [03/25] [Scaling Vision Pre-Training to 4K Resolution](https://arxiv.org/abs/2503.19903) (from NVIDIA) [![Star](https://img.shields.io/github/stars/NVLabs/PS3?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/NVLabs/PS3)
 * [03/25] [AETHER: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) (from Shanghai AI Lab) [![Star](https://img.shields.io/github/stars/OpenRobotLab/Aether?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/OpenRobotLab/Aether)
