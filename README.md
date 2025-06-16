@@ -42,6 +42,8 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 
 ## Papers by Date
 ### 2025
+
+* [06/08] [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](https://arxiv.org/abs/2506.07044v4) (from Alibaba) [![Star](https://img.shields.io/github/stars/alibaba-damo-academy/MedEvalKit?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/alibaba-damo-academy/MedEvalKit)
 * [05/11] [Seed1.5-VL Technical Report](https://arxiv.org/abs/2505.07062) (A vision-language foundation model from ByteDance) 
 * [04/17] [Perception Encoder: The best visual embeddings are not at the output of the network](https://arxiv.org/pdf/2504.13181) (from Meta) [![Star](https://img.shields.io/github/stars/facebookresearch/perception_models?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/facebookresearch/perception_models)
 * [04/10] [Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs](https://arxiv.org/abs/2504.07866) (from Huawei)
