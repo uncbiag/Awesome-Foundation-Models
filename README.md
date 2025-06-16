@@ -270,6 +270,7 @@ using only image prediction as a training criterion; from AWS)
 * [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) [![Star](https://img.shields.io/github/stars/Dao-AILab/flash-attention.svg?style=social&label=Star)](https://github.com/Dao-AILab/flash-attention)
 
 ### Large Benchmarks
+* [ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning](https://arxiv.org/abs/2506.09513) (from Alibaba)
 * [PhyX: Does Your Model Have the "Wits" for Physical Reasoning?](https://arxiv.org/abs/2505.15929) (A large-scale benchmark designed to assess capacity for physics-grounded reasoning. from HKU, 2025)
 * [OphNet: A Large-Scale Video Benchmark for Ophthalmic Surgical Workflow Understanding](https://arxiv.org/abs/2406.07471) (large-scale annotated video benchmark for ophthalmic surgery. from Monash, 2024)
 * [MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI](https://arxiv.org/abs/2404.16006) (from Shanghai AI Lab, 2024)
