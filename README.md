@@ -44,7 +44,8 @@ A foundation model is a large-scale pretrained model (e.g., BERT, DALL-E, GPT-3)
 ### 2025
 
 * [06/08] [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](https://arxiv.org/abs/2506.07044v4) (from Alibaba) [![Star](https://img.shields.io/github/stars/alibaba-damo-academy/MedEvalKit?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/alibaba-damo-academy/MedEvalKit)
-* [05/11] [Seed1.5-VL Technical Report](https://arxiv.org/abs/2505.07062) (A vision-language foundation model from ByteDance) 
+* [05/11] [Seed1.5-VL Technical Report](https://arxiv.org/abs/2505.07062) (A vision-language foundation model from ByteDance)
+* [05/02] [GENMO: A GENeralist Model for Human MOtion](https://arxiv.org/abs/2505.01425) (from NVIDIA) 
 * [04/17] [Perception Encoder: The best visual embeddings are not at the output of the network](https://arxiv.org/pdf/2504.13181) (from Meta) [![Star](https://img.shields.io/github/stars/facebookresearch/perception_models?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/facebookresearch/perception_models)
 * [04/10] [Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs](https://arxiv.org/abs/2504.07866) (from Huawei)
 * [04/03] [VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning](https://arxiv.org/abs/2504.02949) (from Peking University) [![Star](https://img.shields.io/github/stars/VARGPT-family/VARGPT-v1.1?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/VARGPT-family/VARGPT-v1.1)
