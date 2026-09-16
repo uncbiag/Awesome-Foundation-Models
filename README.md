@@ -284,6 +284,7 @@ using only image prediction as a training criterion; from AWS)
 * [ImageNet: A Large-Scale Hierarchical Image Database](https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf) (vision benchmark. from Stanford, 2009)
 
 ### Vision-Language Pretraining
+* [Hierarchical Pre-Training of Vision Encoders with Large Language Models](https://arxiv.org/abs/2604.00086) (CVPR 2026 Workshop, 5th MMFM; hierarchical cross-attention between vision encoder and LLM with three-stage pretraining for structured multi-layer feature fusion) [![Star](https://img.shields.io/github/stars/eugenelet/HIVE?style=social)](https://github.com/eugenelet/HIVE)
 * [FLIP: Scaling Language-Image Pre-training via Masking](https://arxiv.org/abs/2212.00794) (from Meta)
 * [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf) (proposes a generic and efficient VLP strategy based on off-the-shelf frozen vision and language models. from Salesforce Research)
 * [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n/li22n.pdf) (from Salesforce Research)
